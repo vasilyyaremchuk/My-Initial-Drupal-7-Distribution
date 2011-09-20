@@ -31,6 +31,7 @@ projects[coder][subdir] = "contrib"
 
 ;SEO
 projects[addthis][subdir] = "contrib"
+projects[addthis][version] = "4.x-dev"
 projects[addtoany][subdir] = "contrib"
 projects[globalredirect][subdir] = "contrib"
 projects[google_analytics][subdir] = "contrib"
@@ -45,10 +46,14 @@ projects[xmlsitemap][subdir] = "contrib"
 
 ;Media
 projects[media][subdir] = "contrib"
+projects[media][version] = "1.0-beta5"
 projects[media_browser_plus][subdir] = "contrib"
+projects[media_browser_plus][version] = "1.0-beta3"
 projects[media_youtube][subdir] = "contrib"
 projects[rotating_banner][subdir] = "contrib"
+projects[rotating_banner][version] = "1.x-dev"
 projects[media_gallery][subdir] = "contrib"
+projects[media_gallery][version] = "1.0-beta6"
 
 ;UI
 projects[admin][subdir] = "contrib"
@@ -81,13 +86,19 @@ projects[alphorn][type] = "theme"
 projects[alphorn][type] = "theme"
 projects[conch][type] = "theme"
 projects[layoutstudio][type] = "theme"
+projects[adaptivetheme][type] = "theme"
+projects[corporateclean][type] = "theme"
+projects[corporateclean][version] = "1.1"
+projects[bluemasters][type] = "theme"
+projects[journalcrunch][type] = "theme"
+projects[jackson][type] = "theme"
+projects[busy][type] = "theme"
+projects[openpublic_eu][type] = "theme"
 
 ;Omega
 projects[omega_tools][subdir] = "contrib"
 projects[delta][subdir] = "contrib"
 projects[omega][type] = "theme"
-projects[beta][type] = "theme"
-projects[gamma][type] = "theme"
 
 ;Libraries
 libraries[ckeditor][download][type] = "get"
