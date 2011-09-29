@@ -79,6 +79,9 @@ projects[qforms][version] = "1.0-beta1"
 projects[qforms_extra][subdir] = "contrib"
 projects[qforms_extra][version] = "1.0-alpha1"
 projects[elfinder][subdir] = "contrib"
+projects[boxes][subdir] = "contrib"
+projects[views_boxes][subdir] = "contrib"
+projects[views_arguments_extras][subdir] = "contrib"
 
 ;3-rd party 
 projects[google_fonts][subdir] = "contrib"
