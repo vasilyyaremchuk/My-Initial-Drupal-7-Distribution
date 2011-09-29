@@ -68,6 +68,20 @@ projects[colorbox][subdir] = "contrib"
 projects[field_group][subdir] = "contrib"
 projects[follow][subdir] = "contrib"
 projects[link][subdir] = "contrib"
+projects[form_builder][subdir] = "contrib"
+projects[form_builder][version] = "0.9"
+projects[webform_alt_ui][subdir] = "contrib"
+projects[webform_alt_ui][version] = "1.x-dev"
+projects[multicolumncheckboxesradios][subdir] = "contrib"
+projects[multicolumncheckboxesradios][version] = "1.x-dev"
+projects[qforms][subdir] = "contrib"
+projects[qforms][version] = "1.0-beta1"
+projects[qforms_extra][subdir] = "contrib"
+projects[qforms_extra][version] = "1.0-alpha1"
+projects[elfinder][subdir] = "contrib"
+
+;3-rd party 
+projects[google_fonts][subdir] = "contrib"
 
 ;Localized Drupal
 projects[l10n_client][subdir] = "contrib"
