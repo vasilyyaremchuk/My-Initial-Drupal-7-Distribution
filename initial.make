@@ -57,6 +57,8 @@ projects[media_gallery][version] = "1.0-beta6"
 
 ;UI
 projects[admin][subdir] = "contrib"
+projects[fpa][subdir] = "contrib"
+projects[module_filter][subdir] = "contrib"
 projects[logintoboggan][subdir] = "contrib"
 projects[colortheme][subdir] = "contrib"
 projects[search_api][subdir] = "contrib"
